@@ -1,9 +1,19 @@
 # Hi, I'm Ryan 👋
 
-Windows infrastructure administrator who automates the boring parts.
-I work with Windows Server, VMware vSphere, Active Directory, and Dell
-server hardware — and I'd rather write a script that does it right every
-time than click through the same console twice.
+Security & infrastructure operations — 17 years defending Windows, Active
+Directory, and VMware environments in government, defense-industrial, and
+regulated spaces.
+
+**Currently:** Managing systems administration and security operations at
+Unisys, supporting a major U.S. naval shipbuilding customer. Vulnerability
+management, incident investigation, CIS/NIST/FedRAMP hardening.
+
+**Building:** Detection engineering skills in public — Sigma rules, Windows
+event log analysis, and Atomic Red Team-driven detection testing for Active
+Directory attack techniques. Watch this space.
+
+**Background:** Prior DoD Secret clearance · HIPAA and state-regulated gaming
+environments · PowerShell, Puppet, Ansible automation
 
 ## 🔧 What I build
 
@@ -22,7 +32,8 @@ time than click through the same console twice.
 ## 🧰 Tools of the trade
 
 `PowerShell` · `PowerCLI / vSphere` · `Windows Server` · `Active Directory` ·
-`Dell iDRAC / Redfish` · `Pester + PSScriptAnalyzer CI` · `GitHub Actions`
+`Puppet` · `Ansible` · `Dell iDRAC / Redfish` · `Pester + PSScriptAnalyzer CI` ·
+`GitHub Actions`
 
 ## 📐 How I write scripts
 
