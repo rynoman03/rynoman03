@@ -40,3 +40,4 @@ environments · PowerShell, Puppet, Ansible automation
 - Read-only by default; anything destructive is opt-in and confirmed
 - Parameters over hard-coded values, reports over silent changes
 - Works on Windows PowerShell 5.1 *and* PowerShell 7 — because servers
+  don't all get to choose their PowerShell version
